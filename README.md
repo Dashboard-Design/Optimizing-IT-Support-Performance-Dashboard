@@ -101,3 +101,7 @@ It's not perfect — no solution ever is. But it **asks better questions**, guid
 ---
 
 ### 📁 Folder Suggestions:
+/Background Images
+/Dataset
+/Similiarity Score & Clustering Python Code
+/IT_Support_Ticket_Desk.pbix
