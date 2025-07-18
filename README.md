@@ -4,9 +4,9 @@ A Power BI dashboard designed to analyze and improve IT service operations throu
 
 In this challenge, I stepped into the role of an IT Support Analyst to uncover trends, spot inefficiencies, and drive actionable improvements. The dataset mimics systems like Jira Service Management, containing thousands of support tickets tagged by type, team, priority, category, and more.
 
-<br>
+<br> </br>
 ---
-<br>
+<br> </br>
 
 ## 🧠 My Design Philosophy
 
