@@ -1,5 +1,5 @@
 # 📊 Optimizing IT Support Performance Dashboard
-
+<br> </br>
 A Power BI dashboard designed to analyze and improve IT service operations through data storytelling, machine learning insights, and strategic visualization.
 
 In this challenge, I stepped into the role of an IT Support Analyst to uncover trends, spot inefficiencies, and drive actionable improvements. The dataset mimics systems like Jira Service Management, containing thousands of support tickets tagged by type, team, priority, category, and more.
@@ -9,7 +9,7 @@ In this challenge, I stepped into the role of an IT Support Analyst to uncover t
 <br> </br>
 
 ## 🧠 My Design Philosophy
-
+<br> </br>
 The dashboard is more than a report — it's a conversation.
 
 - I approach BI development as if I were a **psychotherapist for the business**, constantly asking:  
@@ -18,20 +18,20 @@ The dashboard is more than a report — it's a conversation.
 - I emphasized **interaction paths**, intuitive drilldowns, and storytelling clarity.
 - I also enhanced the dataset using **Python + NLP**, enabling deeper insights through clustering and semantic similarity.
 
-<br>
+<br> </br>
 ---
-<br>
+<br> </br>
 
 ## 📄 Page 1: Ticket Volume & Classification
-
+<br> </br>
 ### 🔍 Business Questions Answered:
 1. What kinds of issues (bugs, requests, features) come up most often?
 2. Which support teams or queues handle the most tickets?
 3. How are different tags (like "Security", "Integration", or "Documentation") used?
 
-<br>
+<br> </br>
 <img width="4006" height="2253" alt="Image" src="https://github.com/user-attachments/assets/96f5a078-def5-4e30-b5d3-3e18a13d2c59" />
-<br>
+<br> </br>
 
 
 ### 🔁 Key Interactions:
@@ -39,40 +39,40 @@ The dashboard is more than a report — it's a conversation.
 - Drill through donut and bar charts to uncover detailed tag and category distributions
 - Analyze ticket trends over time with resolution overlays
 
-<br>
+<br> </br>
 ---
-<br>
+<br> </br>
 
 ## 📄 Page 2: Efficiency & Resolution
-
+<br> </br>
 ### 🔍 Business Questions Answered:
 4. How long does it take to resolve tickets, on average?  
 5. Do higher-priority tickets get resolved faster?  
 6. Which types of tickets take the longest to close?
    
-<br>
+<br> </br>
 <img width="4006" height="2253" alt="Image" src="https://github.com/user-attachments/assets/44ce4dfe-4be0-4652-9cf9-35a086c22a47" />
-<br>
+<br> </br>
 
 ### 🔁 Key Interactions:
 - Country-by-priority resolution breakdown (thresholds highlight underperformers)
 - Cluster queues by resolution delay and volume (risk matrix)
 - Zoom into top tags or resolution types that are trending above target thresholds
 
-<br>
+<br> </br>
 ---
-<br>
+<br> </br>
 
 ## 📄 Page 3: Optimization & Service Improvement
-
+<br> </br>
 ### 🔍 Business Questions Answered:
 9. Can we group similar tickets to create automated replies or help articles?  
 10. Are the agent responses helpful and aligned with what the user asked?  
 11. Where can the support team save time or improve service quality?
 
-<br>
+<br> </br>
 <img width="4006" height="2253" alt="Image" src="https://github.com/user-attachments/assets/2c045429-0f84-49ce-b3c6-db149de313dd" />
-<br>
+<br> </br>
 
 ### 🧠 Features:
 - **NLP-based clustering** of ticket subjects using TF-IDF + KMeans to detect automatable topics
@@ -81,12 +81,12 @@ The dashboard is more than a report — it's a conversation.
 
 Each panel includes **Action Boxes** that translate findings into next-step decisions.
 
-<br>
+<br> </br>
 ---
-<br>
+<br> </br>
 
 ## ℹ️ Info Page (Optional Tooltip Overlay)
-
+<br> </br>
 ### 🎯 Purpose:
 A lightweight user guide overlay to help first-time users navigate the dashboard.
 
@@ -97,20 +97,20 @@ Includes:
 - Page navigation explanation
 - Chart interactivity notes (ZoomCharts)
 
-<br>
+<br> </br>
 ---
-<br>
+<br> </br>
 
 ## 🧠 Final Thoughts
-
+<br> </br>
 This dashboard is the result of combining data, storytelling, and curiosity.  
 It's not perfect — no solution ever is. But it **asks better questions**, guides clearer decisions, and opens the door to continuous improvement.
 
 > *"A dashboard is not the destination — it's the map. And the map gets better the more you explore."*
 
-<br>
+<br> </br>
 ---
-<br>
+<br> </br>
 
 ### 🚀 Tech Used
 - **Power BI** (including ZoomCharts custom visuals)
