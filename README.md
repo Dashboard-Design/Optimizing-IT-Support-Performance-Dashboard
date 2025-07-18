@@ -90,22 +90,11 @@ It's not perfect — no solution ever is. But it **asks better questions**, guid
 
 > *"A dashboard is not the destination — it's the map. And the map gets better the more you explore."*
 
----
+------
 
 ### 🚀 Tech Used
 - **Power BI** (including ZoomCharts custom visuals)
 - **Python** (TF-IDF, KMeans, Cosine Similarity)
 - **Pandas, scikit-learn**, and **Matplotlib** for analysis
 
----
 
-
-## 📁 Repository Structure
-
-```bash
-/Background Images                 # Screenshots of each dashboard page
-/Dataset                          # Raw and/or cleaned dataset files
-/Similarity Score & Clustering Python Code
-                                  # Jupyter notebooks and scripts for NLP & ML analysis
-/IT_Support_Ticket_Desk.pbix      # Final Power BI Dashboard file
-README.md                         # This file
