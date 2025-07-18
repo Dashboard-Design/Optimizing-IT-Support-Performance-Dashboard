@@ -80,7 +80,6 @@ Includes:
 - Filter section functionality
 - Page navigation explanation
 - Chart interactivity notes (ZoomCharts)
-- Meaning of KPIs and thresholds
 
 ---
 
@@ -100,8 +99,13 @@ It's not perfect — no solution ever is. But it **asks better questions**, guid
 
 ---
 
-### 📁 Folder Suggestions:
-/Background Images
-/Dataset
-/Similiarity Score & Clustering Python Code
-/IT_Support_Ticket_Desk.pbix
+
+## 📁 Repository Structure
+
+```bash
+/Background Images                 # Screenshots of each dashboard page
+/Dataset                          # Raw and/or cleaned dataset files
+/Similarity Score & Clustering Python Code
+                                  # Jupyter notebooks and scripts for NLP & ML analysis
+/IT_Support_Ticket_Desk.pbix      # Final Power BI Dashboard file
+README.md                         # This file
