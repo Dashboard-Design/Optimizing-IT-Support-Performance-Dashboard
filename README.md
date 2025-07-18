@@ -1,5 +1,5 @@
 # 📊 Optimizing IT Support Performance Dashboard
-<br> </br>
+
 A Power BI dashboard designed to analyze and improve IT service operations through data storytelling, machine learning insights, and strategic visualization.
 
 In this challenge, I stepped into the role of an IT Support Analyst to uncover trends, spot inefficiencies, and drive actionable improvements. The dataset mimics systems like Jira Service Management, containing thousands of support tickets tagged by type, team, priority, category, and more.
@@ -8,7 +8,7 @@ In this challenge, I stepped into the role of an IT Support Analyst to uncover t
 
 
 ## 🧠 My Design Philosophy
-<br> </br>
+
 The dashboard is more than a report — it's a conversation.
 
 - I approach BI development as if I were a **psychotherapist for the business**, constantly asking:  
@@ -21,7 +21,7 @@ The dashboard is more than a report — it's a conversation.
 
 
 ## 📄 Page 1: Ticket Volume & Classification
-<br> </br>
+
 ### 🔍 Business Questions Answered:
 1. What kinds of issues (bugs, requests, features) come up most often?
 2. Which support teams or queues handle the most tickets?
@@ -41,7 +41,7 @@ The dashboard is more than a report — it's a conversation.
 
 
 ## 📄 Page 2: Efficiency & Resolution
-<br> </br>
+
 ### 🔍 Business Questions Answered:
 4. How long does it take to resolve tickets, on average?  
 5. Do higher-priority tickets get resolved faster?  
@@ -60,7 +60,7 @@ The dashboard is more than a report — it's a conversation.
 
 
 ## 📄 Page 3: Optimization & Service Improvement
-<br> </br>
+
 ### 🔍 Business Questions Answered:
 9. Can we group similar tickets to create automated replies or help articles?  
 10. Are the agent responses helpful and aligned with what the user asked?  
@@ -80,7 +80,6 @@ Each panel includes **Action Boxes** that translate findings into next-step deci
 <br> </br>
 
 ## ℹ️ Info Page (Optional Tooltip Overlay)
-<br> </br>
 ### 🎯 Purpose:
 A lightweight user guide overlay to help first-time users navigate the dashboard.
 
@@ -95,7 +94,7 @@ Includes:
 
 
 ## 🧠 Final Thoughts
-<br> </br>
+
 This dashboard is the result of combining data, storytelling, and curiosity.  
 It's not perfect — no solution ever is. But it **asks better questions**, guides clearer decisions, and opens the door to continuous improvement.
 
