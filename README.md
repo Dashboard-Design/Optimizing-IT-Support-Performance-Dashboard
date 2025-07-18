@@ -74,6 +74,8 @@ Each panel includes **Action Boxes** that translate findings into next-step deci
 ### 🎯 Purpose:
 A lightweight user guide overlay to help first-time users navigate the dashboard.
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/4cafb3cf-b929-4ad1-9cef-56e132f36e42" />
+
 Includes:
 - Filter section functionality
 - Page navigation explanation
@@ -98,4 +100,4 @@ It's not perfect — no solution ever is. But it **asks better questions**, guid
 
 ---
 
-### 📁 Folder Suggestions (if uploading assets):
+### 📁 Folder Suggestions:
