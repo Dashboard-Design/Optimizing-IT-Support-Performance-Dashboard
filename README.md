@@ -1,6 +1,6 @@
 # 📊 Optimizing IT Support Performance Dashboard
 
-Welcome to the **Optimizing IT Support Performance** project — a Power BI dashboard designed to analyze and improve IT service operations through data storytelling, machine learning insights, and strategic visualization.
+A Power BI dashboard designed to analyze and improve IT service operations through data storytelling, machine learning insights, and strategic visualization.
 
 In this challenge, I stepped into the role of an IT Support Analyst to uncover trends, spot inefficiencies, and drive actionable improvements. The dataset mimics systems like Jira Service Management or Zendesk, containing thousands of support tickets tagged by type, team, priority, category, and more.
 
