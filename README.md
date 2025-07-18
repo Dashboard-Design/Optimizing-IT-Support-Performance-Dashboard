@@ -4,8 +4,7 @@ A Power BI dashboard designed to analyze and improve IT service operations throu
 
 In this challenge, I stepped into the role of an IT Support Analyst to uncover trends, spot inefficiencies, and drive actionable improvements. The dataset mimics systems like Jira Service Management, containing thousands of support tickets tagged by type, team, priority, category, and more.
 
-Here is the Power BI file:
-- [download PBIX file]([https://github.com/Dashboard-Design/Power-BI-IT-Help-Desk-Dashboard/main/README.md](https://github.com/Dashboard-Design/Power-BI-IT-Help-Desk-Dashboard/blob/main/IT_Support_Ticket_Desk.pbix))
+Here is the Power BI file: [download PBIX file](https://github.com/Dashboard-Design/Power-BI-IT-Help-Desk-Dashboard/blob/main/IT_Support_Ticket_Desk.pbix)
 
 <br> </br>
 
