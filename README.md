@@ -5,7 +5,7 @@ A Power BI dashboard designed to analyze and improve IT service operations throu
 In this challenge, I stepped into the role of an IT Support Analyst to uncover trends, spot inefficiencies, and drive actionable improvements. The dataset mimics systems like Jira Service Management, containing thousands of support tickets tagged by type, team, priority, category, and more.
 
 <br> </br>
-<br> </br>
+
 
 ## 🧠 My Design Philosophy
 <br> </br>
@@ -18,7 +18,7 @@ The dashboard is more than a report — it's a conversation.
 - I also enhanced the dataset using **Python + NLP**, enabling deeper insights through clustering and semantic similarity.
 
 <br> </br>
-<br> </br>
+
 
 ## 📄 Page 1: Ticket Volume & Classification
 <br> </br>
@@ -38,7 +38,7 @@ The dashboard is more than a report — it's a conversation.
 - Analyze ticket trends over time with resolution overlays
 
 <br> </br>
-<br> </br>
+
 
 ## 📄 Page 2: Efficiency & Resolution
 <br> </br>
@@ -57,7 +57,7 @@ The dashboard is more than a report — it's a conversation.
 - Zoom into top tags or resolution types that are trending above target thresholds
 
 <br> </br>
-<br> </br>
+
 
 ## 📄 Page 3: Optimization & Service Improvement
 <br> </br>
@@ -78,7 +78,6 @@ The dashboard is more than a report — it's a conversation.
 Each panel includes **Action Boxes** that translate findings into next-step decisions.
 
 <br> </br>
-<br> </br>
 
 ## ℹ️ Info Page (Optional Tooltip Overlay)
 <br> </br>
@@ -93,7 +92,7 @@ Includes:
 - Chart interactivity notes (ZoomCharts)
 
 <br> </br>
-<br> </br>
+
 
 ## 🧠 Final Thoughts
 <br> </br>
@@ -103,7 +102,7 @@ It's not perfect — no solution ever is. But it **asks better questions**, guid
 > *"A dashboard is not the destination — it's the map. And the map gets better the more you explore."*
 
 <br> </br>
-<br> </br>
+
 
 ### 🚀 Tech Used
 - **Power BI** (including ZoomCharts custom visuals)
